@@ -4,7 +4,7 @@ import {
   Routes,
   Route,
 } from "react-router-dom";
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 import Header from './Routes/Header';
 import Home from './Routes/Home';
