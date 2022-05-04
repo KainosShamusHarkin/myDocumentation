@@ -1,3 +1,8 @@
+This app is for origin myDocumentation in kainosshamusharkin github repository.
+It was a test to check whether you can run create react app on github pages.  You can.
+It would have been useful for internal documentation.
+However, it creates public, internet facing github pages.  There is no way to make internal gh-pages sites with Kainos Github package.  Therefore, this site is not published to gh-pages, although it does work.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
